@@ -1,0 +1,1 @@
+ChuckNorrisJoke(id=567, joke=Code runs faster when Chuck Norris watches it., category=null)
